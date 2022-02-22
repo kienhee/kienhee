@@ -1,6 +1,6 @@
-<!-- kienhee -->
+<!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/kienhee.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center" >🛠 Technologies and Tools 🛠</h2>
@@ -57,31 +57,28 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienhee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="kienhee">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kienhee&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👽 Contact with me .... 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+
   <a href="https://www.facebook.com/kien.itt/" target="blank">
-    <img src="https://img.icons8.com/cute-clipart/452/facebook.png" alt="kienhee-facebook" />
-  </a>
-  <a href="https://www.instagram.com/kien.dev/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="kienhee-instagram" />
-  </a>
-  <a href="https://twitter.com/Kienhee_dev" target="blank">
-    <img src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="kienhee-twitter" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="KienHee-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/kien-hee-305187216/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="kienhee-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="KienHee-linkedin" />
   </a>
-  
+  <a href="https://www.instagram.com/kien.dev/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="KienHee-instagram" />
+  </a>
   <a href="mailto:kienhee.it@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="kienhee-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="KienHee-email" />
   </a>
 </div>
 
